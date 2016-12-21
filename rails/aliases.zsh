@@ -1,0 +1,6 @@
+alias test='./tools/test.sh'
+alias cuke='./tools/cuke.sh'
+alias deploy='./tools/deploy.sh'
+alias srv='./tools/server.sh'
+alias tdd='./tools/tdd.sh'
+alias cs='./tools/console.sh'
